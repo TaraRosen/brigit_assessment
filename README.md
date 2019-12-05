@@ -2,16 +2,16 @@
 
 ### Advance Tape Exercise
 
-We have provided an advance tape (advance_tape.csv) with the following data:
+Data:
 
-● User_id - Identifier for users
-● Id - Unique identifier for advances
-● Origination Date- Date of Advance Origination
-● Amount - Origination Amount
-● Location_State - State of Origination of Advance
-● Banks - Bank of Borrower’s Depository Account
-● Pay Frequency - Frequency of borrowers paycheck
-● Default Flag - Advance has defaulted (Not repaid advance)
+● User_id - Identifier for users\
+● Id - Unique identifier for advances\
+● Origination Date- Date of Advance Origination\
+● Amount - Origination Amount\
+● Location_State - State of Origination of Advance\
+● Banks - Bank of Borrower’s Depository Account\
+● Pay Frequency - Frequency of borrowers paycheck\
+● Default Flag - Advance has defaulted (Not repaid advance)\
 
 Please analyze the data and provide us insights about our advance originations and
 performance data. Produce a light report on your findings.
@@ -23,10 +23,12 @@ Here are examples of questions we are looking for within the data:
 Output
 
 ● Provide us the code for this analysis. Notes within the code would be greatly
-appreciated.
-● Write up a light report with these answers and how you found them.
+appreciated.\
+● Write up a light report with these answers and how you found them.\
+
 Notes and Suggestions
-● You can use whatever programming language/tools you’d like.
+
+● You can use whatever programming language/tools you’d like.\
 ● You do not need to make your output report pretty, but it should be
 understandable, so focus on communication.
 
