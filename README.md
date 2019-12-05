@@ -11,7 +11,7 @@ Data:
 ● Location_State - State of Origination of Advance\
 ● Banks - Bank of Borrower’s Depository Account\
 ● Pay Frequency - Frequency of borrowers paycheck\
-● Default Flag - Advance has defaulted (Not repaid advance)\
+● Default Flag - Advance has defaulted (Not repaid advance)
 
 Please analyze the data and provide us insights about our advance originations and
 performance data. Produce a light report on your findings.
@@ -24,7 +24,7 @@ Output
 
 ● Provide us the code for this analysis. Notes within the code would be greatly
 appreciated.\
-● Write up a light report with these answers and how you found them.\
+● Write up a light report with these answers and how you found them.
 
 Notes and Suggestions
 
