@@ -30,6 +30,4 @@ Notes and Suggestions
 ● You do not need to make your output report pretty, but it should be
 understandable, so focus on communication.
 
-[### Final Report](https://docs.google.com/document/d/1Xr6CaVf6LHNX75Qu80j-or7WR4K6VFTn4A851YyDcrc/edit?usp=sharing)
-
-
+### [Final Report](https://docs.google.com/document/d/1Xr6CaVf6LHNX75Qu80j-or7WR4K6VFTn4A851YyDcrc/edit?usp=sharing)
